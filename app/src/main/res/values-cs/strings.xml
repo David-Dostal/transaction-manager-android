@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manažer transakcí</string>
+    <string name="none_value">Žádná</string>
+
+
+    <string name="version_text">Číslo Build Verze Manažeru transakcí</string>
+    <string name="version_name">Jméno Verze: </string>
+    <string name="version_code">Kód Verze: </string>
+
+
+    <string name="stats_intro">Statistiky</string>
+    <string name="title_activity_splash_screen">SplashScreenAktivita</string>
+    <string name="back">Zpět</string>
+    <string name="transaction_name">Název transakce</string>
+    <string name="save">Uložit</string>
+    <string name="title_activity_app_intro">Vítej</string>
+    <string name="add_transaction">Přidej transakci</string>
+    <string name="edit_transaction">Uprav transakci</string>
+    <string name="date">Datum</string>
+    <string name="required_field">Povinná položka</string>
+    <string name="welcome_to">Vítej v aplikaci </string>
+    <string name="intro_text_1">Uspořádej si své transakce jako nikdy předtím!</string>
+    <string name="intro_text_2">Analyzuj své příjmy a útraty!</string>
+    <string name="clear">clear</string>
+    <string name="no_transactions_text">Nezadal si žádné transakce. Přidej nějaké za pomocí tlačítka s tužkou.</string>
+    <string name="continue_to_app">Pokračuj</string>
+    <string name="cannot_be_empty">Nesmí být prázdné</string>
+    <string name="loading">Počkejte prosím. Načítám data...</string>
+    <string name="manager">Manažer</string>
+    <string name="stats">Statistiky</string>
+    <string name="currency">Kč</string>
+    <string name="select_image_button">Vyber Obrázek</string>
+    <string name="delete_transaction_button">ODSTRANIT</string>
+    <string name="save_button">Uložit</string>
+
+    <string name="go_back">Návrat na předchozí obrazovku</string>
+
+    <string name="delete_transaction">Smazat zvolenou transakci</string>
+    <string name="click_on_graph_title">Kliknutím na titulek grafu ho uložíte do galerie.</string>
+
+
+
+    <string name="settings_description">Nastavení</string>
+    <string name="add_transaction_description">Přidat transakci</string>
+    <string name="image_description">Obrázek z galerie</string>
+
+    <string name="type_income">Příjmy</string>
+    <string name="type_spending">Útraty</string>
+    <string name="title_manage_currencies">Vlastní měna</string>
+
+    <string name="hint_currency">Měna</string>
+
+
+    <string name="hint_text">Text</string>
+    <string name="hint_amount">Částka</string>
+    <string name="hint_category">Kategorie</string>
+
+    <string name="title_export">Export</string>
+    <string name="text_quality">Kvalita</string>
+    <string name="description_quality_dropdown">Výběr kvality</string>
+    <string name="description_format_dropdown">Výběr formátu</string>
+    <string name="text_format">Formát</string>
+    <string name="navigate_to_manage_currencies">Vlastní měna</string>
+
+    <string name="unselect_image_button">Odstranit výběr</string>
+
+    <string name="title_currencies">Měny</string>
+
+    <string name="description_add_currency_button">Naviguj na obrazovku pro správu měny</string>
+
+    <string name="title_settings">Nastavení</string>
+    <string name="text_language">Jazyk</string>
+    <string name="description_language_dropdown">Výběr jazyku</string>
+    <string name="text_currency">Měna</string>
+    <string name="description_currency_dropdown">Výběr měny</string>
+    <string name="language_czech">Čeština</string>
+    <string name="language_english">Angličtina</string>
+    <string name="currency_czech_crown">Kč</string>
+    <string name="currency_english_dollar">$</string>
+    <string name="currency_european_euro">€</string>
+
+
+    <string name="title_week">Týden</string>
+    <string name="title_month">Měsíc</string>
+    <string name="title_year">Rok</string>
+    <string name="description_export_button">Možnosti exportu</string>
+
+    <string name="description_category_dropdown">Výběr kategorie</string>
+    <string name="label_category">Kategorie</string>
+
+    <string name="on_value_selected">Vybrána - Transakce:</string>
+    <string name="on_nothing_selected">Nic nevybráno.</string>
+</resources>
