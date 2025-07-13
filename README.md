@@ -40,7 +40,7 @@ app/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/transaction-manager.git
+   git clone https://github.com/david-dostal/transaction-manager.git
    ```
 2. Open in Android Studio
 3. Run on emulator or physical device
