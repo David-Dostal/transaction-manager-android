@@ -19,7 +19,6 @@ A localized Kotlin Android app using Jetpack Compose to manage personal finances
 - **Database**: Room
 - **Storage**: DataStore
 - **Build System**: Gradle
-- **Testing**: Android Instrumentation Testing
 - **Others**: ProGuard, Git
 
 ## 📂 Project Structure
